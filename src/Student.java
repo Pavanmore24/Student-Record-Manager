@@ -3,7 +3,8 @@ public class Student {
     private String Name;
     private int Mark;
 
-    public Student(int id, String name, int mark) {
+    public Student(int id, String name, int mark) 
+    {
         this.ID = id;
         this.Name = name;
         this.Mark = mark;
